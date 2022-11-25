@@ -1,11 +1,11 @@
-<h1 align="center">Camocim controle de lotes</h1>
+<h1 align="center">Camocim controle de lotes (proposta)</h1>
 
 <p align="center">
-    <img src="./src/assets/screenshot-app-menu.jpg" width="250" height="480">
+    <img src="./renderer/public/images/camocim-project-image.png" width="1200" height="400">
 </p>
 
 <h1 align="center">
-    <a>🔗 Download link (Windows)</a>
+    <a href="https://github.com/MarcoLGP/camocim-controle-lotes-public/releases/download/v1.0.0/Camocim-controle-de-lotes-Setup-1.0.0.exe" >🔗 Download link (Windows)</a>
 </h1>
 <p align="center">🚀 Camocim controle de lotes</p>
 
@@ -17,6 +17,7 @@ Tabela de conteúdos
    * [Relatórios](#Relatorios)
    * [Notificações](#Notificacoes)
    * [Extra](#Extra)
+   * [🚧Considerações finais🚧](#ConsideracoesFinais)
 <!--te-->
 
 <h1 id=="Sobre">Sobre</h1>
@@ -37,3 +38,6 @@ Tabela de conteúdos
 <h1 id="Extra">Extra</h1>
 <p>Através da Api dos correios e das transportadoras do sistema em que a empresa tem parceria, pode-se atualizar o cliente pelo rastreio, sendo a opção (Local), apenas o informe que saiu para a entrega.</p>
 <p>Atualização de quantidade de embalagens para fornecedores, chegando a uma certa quantidade embalagens em estoque o fornecedor é informado da quantidade atual de embalagens e que é necessária uma nova remessa.</p>
+
+<h1 id="ConsideracoesFinais">🚧Considerações Finais🚧</h1>
+<p>Versão de proposta, versão final em repositório privado.</p>
