@@ -1,0 +1,171 @@
+.left_content_coffes {
+    width: 90%;
+}
+
+.color_item_border_coffe {
+    height: 50px;
+    margin-top: 10px;
+    width: 5px;
+    border-radius: 0px 100px 100px 0px;
+}
+
+.coffe_item_container {
+    height: 170px;
+    font-weight: 700;
+    display: flex;
+    box-shadow: 0px 38px 15px rgba(0, 19, 51, 0.01), 0px 21px 13px rgba(0, 19, 51, 0.05), 0px 9px 9px rgba(0, 19, 51, 0.09), 0px 2px 5px rgba(0, 19, 51, 0.1), 0px 0px 0px rgba(0, 19, 51, 0.1);
+    margin-top: 10px;
+    width: 260px;
+    border-radius: 15px;
+}
+
+@keyframes slide-vertical {
+    0% {
+        transform: translateY(-30px);
+    }
+}
+
+.coffe_details_menu {
+    animation: slide-vertical 0.5s;
+    display: none;
+    margin: 10px;
+    flex-direction: column;
+}
+
+.coffe_details_menu span {
+    cursor: pointer;
+    font-size: 15px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.coffe_item_name {
+    font-size: 14px;
+    width: 100px;
+    margin-left: 8px;
+    margin-top: 10px;
+    height: 100px;
+    font-family: Manrope;
+    color: #291e1e;
+    font-weight: bold;
+}
+
+.coffe_item_warning_icon {
+    position: absolute;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 230px;
+    color: orange;
+}
+
+.img_coffe_item_container {
+    margin-top: 10px;
+}
+
+.form_modal_report_select_coffes {
+    max-width: 95%;
+}
+
+.coffe_to_details_item {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.recent_lots_details_container {
+    composes: coffe_item_container;
+    flex-direction: column;
+}
+
+.recent_lots_container {
+    font-family: Manrope;
+    font-weight: bold;
+}
+
+.recent_lots_details_content {
+    height: 60px;
+    margin-top: 25px;
+}
+
+.recent_lots_details_content>div>span:last-child {
+    color: gray;
+    font-family: Inter;
+    font-size: 15.5px;
+}
+
+.recent_lots_progress {
+    width: 80%;
+    margin-top: 25px;
+    align-self: center;
+}
+
+.active_lots_container {
+    margin-top: 18px;
+}
+
+.title_lots {
+    font-size: 24px;
+    margin-top: 10px;
+    font-family: Poppins;
+    color: #291e1e;
+    font-weight: bold;
+}
+
+.icon_search_titles {
+    margin-bottom: 7px;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.input_search_lots {
+    width: 150px;
+    height: 25px;
+    margin: 8px;
+}
+
+.list_lots_container {
+    composes: coffe_item_container;
+    margin-top: 0px;
+    width: 300px;
+}
+
+.new_lot_btn {
+    margin-top: 14px;
+    border-radius: 5px;
+    font-size: 14px;
+    height: 27px;
+    margin-left: 10px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #17C964;
+    font-family: Arial;
+    font-weight: bold;
+    color: #fff;
+    border: 0px;
+}
+
+.list_lots_status_container {
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-family: Manrope;
+}
+
+.list_lots_status_container>span {
+    margin: 5px;
+}
+
+.lot_item_name {
+    composes: coffe_item_name;
+    height: 30px;
+    width: auto;
+}
+
+.lot_item_info_icon {
+    margin-left: auto;
+    color: gray;
+    cursor: pointer;
+}

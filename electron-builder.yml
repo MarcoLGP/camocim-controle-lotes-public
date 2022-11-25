@@ -1,0 +1,19 @@
+appId: com.example.camocim_controle_de_lotes
+productName: Camocim controle de lotes
+copyright: Copyright © 2022 Marco Luca
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish:
+  provider: github
+  owner: MarcoLGP
+  repo: camocim-controle-lotes-public
+  vPrefixedTagName: true
+  releaseType: release
+win:
+  icon: resources/icon.ico

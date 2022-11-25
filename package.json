@@ -1,0 +1,46 @@
+{
+  "name": "camocim_controle_de_lotes",
+  "description": "Controle de lotes",
+  "version": "1.0.0",
+  "author": "Marco Luca",
+  "main": "app/background.js",
+  "scripts": {
+    "dev": "nextron",
+    "build": "nextron build",
+    "build:all": "nextron build --all",
+    "build:win32": "nextron build --win --ia32",
+    "publish": "nextron build --win --x64 --publish always",
+    "build:win64": "nextron build --win --x64",
+    "build:mac": "nextron build --mac --x64",
+    "build:linux": "nextron build --linux",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "@fnando/cnpj": "^1.0.2",
+    "@hookform/resolvers": "^2.9.8",
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "@ngneat/falso": "^6.1.0",
+    "@reduxjs/toolkit": "^1.8.6",
+    "electron-serve": "^1.1.0",
+    "electron-store": "^8.1.0",
+    "electron-updater": "^5.3.0",
+    "exceljs": "^4.3.0",
+    "flatlist-react": "^1.5.3",
+    "react-hook-form": "^7.37.0",
+    "react-icons": "^4.6.0",
+    "react-redux": "^8.0.4",
+    "react-select": "^5.5.5",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/react": "^18.0.8",
+    "electron": "^20.1.0",
+    "electron-builder": "^23.3.3",
+    "next": "^12.2.5",
+    "nextron": "^8.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.8.2"
+  }
+}

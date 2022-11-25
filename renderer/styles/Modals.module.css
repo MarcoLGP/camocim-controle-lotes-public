@@ -1,0 +1,205 @@
+.back_modal_icon_container {
+    height: 35px;
+    color: orange;
+    cursor: pointer;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2.5px solid;
+    border-radius: 30px;
+}
+
+.title_modal_report {
+    font-family: Exo2;
+    font-weight: 600;
+    font-size: 35px;
+    color: orange;
+    text-align: center;
+    width: 86%;
+}
+
+.title_divisor_modal_report {
+    height: 2.2px;
+    background-color: orange;
+    width: 100%;
+}
+
+.form_modal_report_container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    font-family: Arial;
+    padding-bottom: 15px;
+}
+
+.form_modal_report_container input {
+    border: 1px solid #bebdbd;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.form_modal_report_btn_submit {
+    padding: 7px 12px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-family: Inter;
+    font-weight: 500;
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    margin-top: auto;
+    align-self: center;
+}
+
+.form_modal_report_sides {
+    min-width: 48%;
+}
+
+.form_modal_report_sides>div {
+    margin-bottom: 10px;
+    max-width: 270px;
+}
+
+.form_new_lot_container {
+    width: 500px;
+    margin-top: 15px;
+}
+
+.form_new_lot_container>div {
+    width: 200px;
+}
+
+.form_new_lot_btn {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding: 5px 12px;
+    align-self: center;
+    cursor: pointer;
+    margin-right: 10px;
+    font-weight: 600;
+    background-color: #FD7401;
+    border-radius: 10px;
+    color: #fff;
+    border: none;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.form_lot_info_btn {
+    composes: form_new_lot_btn;
+    background-color: red;
+}
+
+.form_new_lot_date_label {
+    margin-bottom: 3px;
+    font-weight: 400px;
+    color: #555555;
+}
+
+.form_add_lot_modal {
+    display: flex;
+    padding: 15px;
+    padding-right: 35px;
+    flex-direction: column;
+}
+
+.form_add_lot_icon {
+    margin-left: 20px;
+    align-self: center;
+}
+
+.form_add_lot_modal button {
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.form_order_ship_modal {
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-right: 28px;
+}
+
+.form_ships_options_container {
+    width: 470px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.form_ships_options_container>div {
+    background-color: #FD7401;
+    transition: 0.8s;
+    padding: 5px 8px;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.form_ships_options_container>div:last-child {
+    margin-right: 0px;
+}
+
+.form_ships_submit_btn {
+    composes: form_new_lot_btn;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.form_ships_submit_btn span {
+    margin-left: 2px;
+}
+
+.warning_coffes_info_container {
+    width: 430px;
+    border: 2px solid #FD7401;
+    border-right: 0px;
+}
+
+.warning_coffes_info_container span {
+    padding: 5px;
+    border-bottom: 2px solid #FD7401;
+}
+
+.warning_coffes_img_bottom_border button {
+    background-color: #17C964;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 25px;
+    color: #fff;
+    border: none;
+}
+
+.warning_coffes_info_container span:first-child {
+    font-weight: 600;
+}
+
+.warning_coffes_info_container span:last-child {
+    border-bottom: 0px;
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+
+.warning_coffes_img_bottom_border {
+    height: 42px;
+    border: 2px solid #FD7401;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: none;
+}
+
+.warning_coffes_img_container {
+    border: 2px solid #FD7401;
+    max-height: 125px;
+}
+
+.warning_coffes_list_container {
+    margin-top: 20px;
+    max-height: 360px;
+}

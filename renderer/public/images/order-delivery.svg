@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFEFE4;}
+	.st1{fill:#69EBFC;}
+	.st2{fill:#EDD4C2;}
+	.st3{fill:#CFB6A4;}
+	.st4{fill:#D476E2;}
+	.st5{fill:#5861C7;}
+	.st6{fill:#FF8354;}
+	.st7{fill:#6770E6;}
+	.st8{fill:#3A43A9;}
+	.st9{fill:#B665C2;}
+	.st10{fill:#EA82FA;}
+	.st11{fill:#5FD4E3;}
+	.st12{fill:#69FFFF;}
+	.st13{fill:#858EFF;}
+	.st14{fill:#FFA171;}
+	.st15{fill:#FFF7F2;}
+	.st16{fill:#E0734A;}
+	.st17{fill:#FFBF8F;}
+	.st18{fill:#A1F1FC;}
+	.st19{fill:#7DB6C5;}
+	.st20{fill:#F0E0D5;}
+	.st21{fill:#8F95E6;}
+	.st22{fill:#FFAC8C;}
+	.st23{fill:#BFFFFC;}
+	.st24{fill:#FFFFFF;}
+	.st25{fill:#FFDEC7;}
+	.st26{fill:#FFA0FF;}
+	.st27{fill:#C2552C;}
+	.st28{fill:#FFCAAA;}
+	.st29{fill:#4E57BD;}
+	.st30{fill:#4952B8;}
+	.st31{fill:#5D66DC;}
+	.st32{fill:#7B84FA;}
+	.st33{fill:#BFFFFF;}
+</style>
+<g>
+	<path class="st4" d="M45.176,64H2.824C1.264,64,0,62.736,0,61.176V18.824C0,17.264,1.264,16,2.824,16h42.353
+		C46.736,16,48,17.264,48,18.824v42.353C48,62.736,46.736,64,45.176,64z"/>
+	<path class="st10" d="M45.176,16H2.824C1.264,16,0,17.264,0,18.824v2C0,19.264,1.264,18,2.824,18h42.353
+		C46.736,18,48,19.264,48,20.824v-2C48,17.264,46.736,16,45.176,16z"/>
+	<path class="st9" d="M45.176,62H2.824C1.264,62,0,60.736,0,59.176v2C0,62.736,1.264,64,2.824,64h42.353
+		C46.736,64,48,62.736,48,61.176v-2C48,60.736,46.736,62,45.176,62z"/>
+	<rect x="19.765" y="16" class="st5" width="8.471" height="16.941"/>
+	<rect x="19.765" y="16" class="st7" width="8.471" height="2"/>
+	<rect x="5.647" y="49.882" class="st0" width="19.765" height="8.471"/>
+	<rect x="8.471" y="52.706" class="st2" width="14.118" height="2.824"/>
+	<circle class="st1" cx="50" cy="14" r="14"/>
+	<path class="st18" d="M50,1c7.563,0,13.709,6.002,13.975,13.5C63.981,14.333,64,14.169,64,14c0-7.732-6.268-14-14-14
+		S36,6.268,36,14c0,0.169,0.019,0.333,0.025,0.5C36.291,7.002,42.437,1,50,1z"/>
+	<path class="st6" d="M54,18H43c-0.552,0-1-0.448-1-1V9c0-0.552,0.448-1,1-1h10c0.552,0,1,0.448,1,1V18z"/>
+	<path class="st4" d="M54,18h5c0.552,0,1-0.448,1-1v-3.482l-0.941-3.419c-0.119-0.434-0.514-0.735-0.964-0.735H54V18z"/>
+	<ellipse class="st7" cx="56.857" cy="18.364" rx="1.714" ry="1.636"/>
+	<ellipse class="st7" cx="45.571" cy="18.364" rx="1.714" ry="1.636"/>
+	<polygon class="st0" points="55.857,10.182 55.857,13.455 57.429,14.545 60,14.545 60,13.518 59.082,10.182 	"/>
+</g>
+</svg>

@@ -1,0 +1,41 @@
+.form_login_container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 4%;
+}
+
+.lines_login_container {
+    margin-top: 15px;
+}
+
+.lines_login_container span {
+    margin: 0px 15px;
+    color: #969494;
+    font-weight: 400px;
+}
+
+.line_login {
+    border: 1px solid #C2C2C2;
+    width: 15vw;
+}
+
+.sign_up_button_login {
+    width: 90%;
+    padding: 10px;
+    color: #FD7401;
+    cursor: pointer;
+    font-weight: 600;
+    background-color: #fff;
+    border-radius: 10px;
+    border: solid 1px #FD7401;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-top: 15px;
+}
+
+.box_login {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
