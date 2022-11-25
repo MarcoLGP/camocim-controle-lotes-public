@@ -1,7 +1,7 @@
 <h1 align="center">Camocim controle de lotes (proposta)</h1>
 
 <p align="center">
-    <img src="./renderer/public/images/camocim-project-image.png" width="1200" height="420">
+    <img src="./renderer/public/images/camocim-project-image.png" width="1200" height="450">
 </p>
 
 <h1 align="center">
@@ -39,5 +39,5 @@ Tabela de conteúdos
 <p>Através da Api dos correios e das transportadoras do sistema em que a empresa tem parceria, pode-se atualizar o cliente pelo rastreio, sendo a opção (Local), apenas o informe que saiu para a entrega.</p>
 <p>Atualização de quantidade de embalagens para fornecedores, chegando a uma certa quantidade embalagens em estoque o fornecedor é informado da quantidade atual de embalagens e que é necessária uma nova remessa.</p>
 
-<h1 id="ConsideracoesFinais">🚧Considerações Finais🚧</h1>
+<h1 id="ConsideracoesFinais">🚧Considerações finais🚧</h1>
 <p>Versão de proposta, versão final em repositório privado.</p>
