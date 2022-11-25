@@ -1,7 +1,7 @@
 <h1 align="center">Camocim controle de lotes (proposta)</h1>
 
 <p align="center">
-    <img src="./renderer/public/images/camocim-project-image.png" width="1200" height="400">
+    <img src="./renderer/public/images/camocim-project-image.png" width="1200" height="420">
 </p>
 
 <h1 align="center">
